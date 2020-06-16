@@ -23,15 +23,15 @@ $(document).ready(function() {
                 'time': '3:20'
             }, {
                 'file': 'https://archive.org/download/dinh.-dai.-vu-my.-nhan/Dinh.Dai.Vu-My.Nhan.mp3',
-                'thumb': 'https://archive.org/download/dinh.-dai.-vu.-cover.-zing-mp-3/Dinh.Dai.Vu.Cover.ZingMP3.jpg,
+                'thumb': 'https://archive.org/download/dinh.-dai.-vu.-cover.-zing-mp-3/Dinh.Dai.Vu.Cover.ZingMP3.jpg',
                 'trackName': 'Mỹ Nhân',
                 'trackArtist': 'Đinh Đại Vũ',
                 'trackAlbum': 'The Best Of Đinh Đại Vũ',
-                'time': '3:53'
+                'time': '4:53'
             }, {
                 'file': 'https://a.clyp.it/bthbgqcs.mp3',
                 'thumb': 'http://kingofwallpapers.com/3/3-002.jpg',
-                'trackName': 'Drifting',
+                'trackName': 'Từng Yêu',
                 'trackArtist': 'Relax Company and Cocock',
                 'trackAlbum': 'Hitch Cock',
                 'time': '3:57'
