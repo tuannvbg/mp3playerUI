@@ -357,7 +357,7 @@ html {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  background: url(https://s30.postimg.org/shr4aygpt/default_album_art_blue2.jpg);
+  background: url(images/default_album_art_blue2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0 10px 20px -15px rgba(0, 0, 0, .35), 0 22px 40px -15px rgba(0, 0, 0, .20);
