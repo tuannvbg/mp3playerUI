@@ -274,7 +274,7 @@ html {
 .player_playlist {
   position: absolute;
   z-index: 60;
-  top: 490px;
+  top: 520px;
   overflow: scroll;
   overflow-x: hidden;
   width: 275px;
