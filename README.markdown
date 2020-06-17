@@ -3,4 +3,4 @@
 demo: 
  https://tuannvbg.github.io/mp3playerUI/index.html
 update 2020-06-17: add information album below artist
-<img src="https://github.com/tuannvbg/mp3playerUI/blob/master/MP3PlayerUIAlbum.PNG?raw=true"/>
+<center><img src="https://github.com/tuannvbg/mp3playerUI/blob/master/MP3PlayerUIAlbum.PNG?raw=true" align="center"/></center>
