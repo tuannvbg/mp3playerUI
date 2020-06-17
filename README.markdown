@@ -2,3 +2,4 @@
  _A Pen created at CodePen.io. Original URL: [https://codepen.io/maskit_jr/pen/YNZWOE](https://codepen.io/maskit_jr/pen/YNZWOE).
 demo: 
  https://tuannvbg.github.io/mp3playerUI/index.html
+update 2020-06-17: add information album below artist
