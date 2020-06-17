@@ -274,7 +274,7 @@ html {
 .player_playlist {
   position: absolute;
   z-index: 60;
-  top: 520px;
+  top: 490px;
   overflow: scroll;
   overflow-x: hidden;
   width: 275px;
@@ -318,7 +318,7 @@ html {
 
 .song_block {
   display: inline-block;
-  max-width: 200px;
+  max-width: 230px;
 }
 
 .song_block .album_block .title_block {
@@ -328,7 +328,7 @@ html {
 }
 
 .song_block .album_block .artist_block {
-  font-size: 11px;
+  font-size: 14px;
 }
 
 .song_time {
@@ -394,12 +394,12 @@ html {
 
 .artist_block {
   font-size: 10.5px;
-  color: rgba(144, 144, 144, 1);
+  color: blue;
 }
 
 .album_block {
   font-size: 10.5px;
-  color: rgba(144, 144, 144, 1);
+  color: green;
 }
 
 .title_block,
