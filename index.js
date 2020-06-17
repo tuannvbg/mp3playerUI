@@ -23,11 +23,11 @@ $(document).ready(function() {
                 'time': '3:20'
             }, {
                 'file': 'https://archive.org/download/dinh.-dai.-vu-my.-nhan/Dinh.Dai.Vu-My.Nhan.mp3',
-                'thumb': 'https://archive.org/download/dinh.-dai.-vu.-cover.-zing-mp-3/Dinh.Dai.Vu.Cover.ZingMP3.jpg',
+                'thumb': 'https://avatar-nct.nixcdn.com/singer/avatar/2018/03/27/3/f/5/f/1522142059144.jpg',
                 'trackName': 'Mỹ Nhân',
                 'trackArtist': 'Đinh Đại Vũ',
                 'trackAlbum': 'The Best Of Đinh Đại Vũ',
-                'time': '4:53'
+                'time': '4:27'
             }, {
                 'file': 'https://a.clyp.it/bthbgqcs.mp3',
                 'thumb': 'http://kingofwallpapers.com/3/3-002.jpg',
